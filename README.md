@@ -15,6 +15,7 @@ OpenTAXII is guaranteed to be compatible with [Cabby](https://github.com/Eclecti
 [![Code Health](https://landscape.io/github/EclecticIQ/OpenTAXII/master/landscape.svg?style=flat)](https://landscape.io/github/EclecticIQ/OpenTAXII/master)
 [![Coverage Status](https://coveralls.io/repos/EclecticIQ/OpenTAXII/badge.svg)](https://coveralls.io/r/EclecticIQ/OpenTAXII)
 [![Documentation Status](https://readthedocs.org/projects/opentaxii/badge/?version=latest)](https://readthedocs.org/projects/opentaxii/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faukjan%2FOpenTAXII.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faukjan%2FOpenTAXII?ref=badge_shield)
 
 
 ## Getting started
@@ -45,3 +46,7 @@ More documentation on running OpenTAXII in a container is found in the [OpenTAXI
 You are encouraged to provide feedback by commenting on open issues or
 sending us email at <opentaxii@eclecticiq.com>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faukjan%2FOpenTAXII.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faukjan%2FOpenTAXII?ref=badge_large)
